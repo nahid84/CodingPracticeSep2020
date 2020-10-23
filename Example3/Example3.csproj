@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>LexisNexisTest.Example3</RootNamespace>
+    <AssemblyName>Example3</AssemblyName>
+  </PropertyGroup>
+
+</Project>
